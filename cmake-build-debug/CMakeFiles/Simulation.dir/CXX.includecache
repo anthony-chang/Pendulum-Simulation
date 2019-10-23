@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Anthony/Desktop/School/Grade 12/Semester 1/AP Physics C-Mr. van Bemmel/Lab 2/Simulation/main.cpp
+iostream
+-
+bits/stdc++.h
+-
+cmath
+-
+fstream
+-
+
